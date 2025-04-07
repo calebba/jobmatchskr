@@ -14,5 +14,3 @@
 /backend/django-backend/staticfiles/
 /backend/django-backend/media/
 /backend/django-backend/node_modules/
-/backend/django-backend/.env
-
