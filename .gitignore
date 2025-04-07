@@ -1,0 +1,18 @@
+#git ignore for  backend and frontend
+
+#git ignore django backend
+
+/backend/django-backend/*.pyc
+/backend/django-backend/__pycache__/
+/backend/django-backend/db.sqlite3
+/backend/django-backend/*.log
+/backend/django-backend/*.pot
+/backend/django-backend/*.py[cod]
+/backend/django-backend/*.sqlite3
+/backend/django-backend/*.env
+/backend/django-backend/*.DS_Store
+/backend/django-backend/staticfiles/
+/backend/django-backend/media/
+/backend/django-backend/node_modules/
+/backend/django-backend/.env
+
